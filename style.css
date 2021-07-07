@@ -1,0 +1,24 @@
+.input-container{
+    display: flex;
+    padding:1rem;
+}
+.input-container label{
+    flex-basis: 8rem;
+}
+header{
+    height: 15vh;
+    background-color: rgb(236, 250, 158);
+    color: black;
+
+
+}
+main{
+    height: 80vh;
+}
+
+footer{
+    height: 5vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
